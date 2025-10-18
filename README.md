@@ -29,9 +29,9 @@
 
 ## 📊 **GitHub Stats**
 
-![Sebastian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical)
+![Sebastian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Drakenoss-source&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Drakenoss-source&layout=compact&theme=radical)
 
 ---
 
